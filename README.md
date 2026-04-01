@@ -158,7 +158,7 @@ Output : POSITIVE  |  Confidence: 94.2%
 ##  Author
 
 **Roshni Tiwari**  
-🔗 [LinkedIn](https://www.linkedin.com/in/roshni-tiwari) | 🐙 [GitHub](https://github.com/roshnitiwari1520)
+ [LinkedIn](https://www.linkedin.com/in/roshni-tiwari) |  [GitHub](https://github.com/roshnitiwari1520)
 
 ---
 
